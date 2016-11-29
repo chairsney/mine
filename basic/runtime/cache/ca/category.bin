@@ -1,0 +1,1 @@
+a:2:{i:0;a:4:{i:1;s:6:"说说";i:2;s:6:"面试";i:3;s:7:"技术8";i:4;s:6:"其他";}i:1;O:24:"yii\caching\DbDependency":5:{s:2:"db";s:2:"db";s:3:"sql";s:29:"SELECT count(*) from category";s:6:"params";a:0:{}s:4:"data";a:1:{s:8:"count(*)";s:1:"4";}s:8:"reusable";b:0;}}
